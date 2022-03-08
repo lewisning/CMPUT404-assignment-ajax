@@ -16,4 +16,4 @@ References
 ========================
 1. https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
 2. https://stackoverflow.com/questions/9713058/send-post-data-using-xmlhttprequest
-3. 
+3. https://github.com/alexshevch/CMPUT404-assignment-ajax/blob/master/static/index.html
